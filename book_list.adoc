@@ -68,3 +68,20 @@ https://www.douban.com/doulist/44371165/?start=0&sort=time&sub_type=
 商业模式新生代
 精益创业
 卓有成效的管理者
+
+== OOAD
+
+Object-Oriented Software Construction, 2nd Edition 
+Object-Oriented Analysis and Design With Applications, 2nd Edition 
+Object-Oriented Software Engineering: A Use Case Driven Approach 
+Design Patterns: Elements of Reusable Object-Oriented Software
+Head First Object-Oriented Analysis and Design
+
+
+= TO DO
+
+
+= 读过的书
+
+The Blue Book of Grammar and Punctuation(2016.9)
+
