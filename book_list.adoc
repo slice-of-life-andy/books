@@ -69,6 +69,10 @@ https://www.douban.com/doulist/44371165/?start=0&sort=time&sub_type=
 精益创业
 卓有成效的管理者
 
+== todo
+
+海都物语
+
 == OOAD
 
 Object-Oriented Software Construction, 2nd Edition 
