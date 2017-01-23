@@ -15,6 +15,12 @@
 
 - Algorithm design
 
+== how to reading 
+《如何阅读一本书》作者:[美] 莫提默·J. 艾德勒/查尔斯·范多伦
+
+《如何有效阅读一本书》作者:[日]奥野宣之
+
+《书都不会读，你还想成功》作者:二志成 郑会一
 
 
 == 编译器
@@ -88,4 +94,7 @@ Head First Object-Oriented Analysis and Design
 = 读过的书
 
 The Blue Book of Grammar and Punctuation(2016.9)
+
+
+
 
