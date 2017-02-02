@@ -78,7 +78,9 @@ https://www.douban.com/doulist/44371165/?start=0&sort=time&sub_type=
 == todo
 
 海都物语
-
+领导力与新科学
+Lee Iacocca
+艾柯卡 
 == OOAD
 
 Object-Oriented Software Construction, 2nd Edition 
